@@ -8,3 +8,15 @@
 .h5{
   font-size:22px;
 }
+
+li{
+display:block;
+}
+
+body{
+  background-color: #FFFFFF;
+}
+h4{
+  border-bottom: solid 3px #5858FA;
+  width:200px;
+}
