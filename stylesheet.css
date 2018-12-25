@@ -20,3 +20,15 @@ h4{
   border-bottom: solid 3px #5858FA;
   width:200px;
 }
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
